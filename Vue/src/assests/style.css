@@ -1,0 +1,96 @@
+/* /* #div1 {
+  padding: 140px 100px 80px 100px;
+}
+
+#div2 {
+  padding: 5px 100px 80px 700px;
+} */
+
+.header {
+  background-image: linear-gradient(to right, rgba(141, 49, 49, 0.973), purple);
+  height: 100%;
+  margin: auto;
+  width: 100%;
+}
+
+.headerText {
+  text-align: center;
+  font-size: 40px;
+  color: White;
+}
+
+.container {
+  background-color: white;
+  text-align: center;
+  padding-top: 60px;
+  font-size: 30px;
+}
+
+.footer {
+  background-color: black;
+  height: 60px;
+  text-align: center;
+  font-size: 40px;
+  color: White;
+  margin-bottom: 1px;
+}
+
+.item {
+  border-radius: 5px;
+  width: 140px;
+  height: 50px;
+  background-color: rgb(231, 230, 230);
+  margin-top: 10px;
+  padding-left: 10px;
+}
+.title {
+  text-decoration: underline;
+  font-weight: bold;
+}
+
+.orderName {
+  font-weight: bold;
+  text-align: initial;
+  font-size: 15px;
+}
+
+.placeHolder {
+  background-color: white;
+  width: 700px;
+  height: auto;
+  margin-top: 40px;
+  margin-left: 400px;
+}
+
+.wrapper {
+  height: 100vh;
+  display: flex;
+  flex-direction: column;
+}
+
+.test {
+  background-color: white;
+  padding-top: 10px;
+  width: 100%;
+  max-height: auto;
+  min-height: 550px;
+  padding-left: 90px;
+  margin-bottom: 10px;
+}
+
+.item {
+  background-color: rgb(230, 222, 222);
+  margin-top: 10px;
+}
+
+.internalneeds {
+  text-decoration: underline;
+  font-weight: bold;
+  font-size: 20px;
+}
+
+.shoppingcart {
+  text-decoration: underline;
+  font-weight: bold;
+  font-size: 20px;
+}
